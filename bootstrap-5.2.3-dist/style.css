@@ -1,0 +1,45 @@
+.login {
+    background-color: #40425C;
+    width: auto;
+    height: 150px;
+    margin-top: 60px;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-family: 'Merriweather';
+    color: #FFFFFF;
+}
+
+.logo {
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-2 {
+    display: flex;
+    font-family: 'Merriweather';
+    border-radius: 15px;
+}
+
+.form-container {
+    padding: 60px;
+}
+
+.btn-fintech {
+    background-color: #40425C;
+}
+
+.cor-roxa {
+    background-color: #40425C;
+}
+
+.cor-rosa {
+    background-color: #5A61E1;
+}
+
+a {
+    color: #5A61E1;
+}
